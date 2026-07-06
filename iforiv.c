@@ -1,7 +1,9 @@
 /* ------------------------------------------------------------------
-   IV-TRAN  --  An interactive ANSI FORTRAN IV interpreter
+      iFOR IV  --  An interactive ANSI FORTRAN IV interpreter
    Written in strict C89 for portability to Turbo C / DOS as well
-   as modern hosts.
+   as modern hosts. Written by Mickey White Lawless of 
+   Lawless Cybernetics Incorporated, July 05. 2026  0010:26PM
+   ------------------------------------------------------------------
 
    Supported (practical, benchmark-driven) subset of FORTRAN IV:
      - Implicit typing (I-N integer, else real) + INTEGER/REAL decls
