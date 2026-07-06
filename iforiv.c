@@ -2382,8 +2382,8 @@ static void printSourceListing(void)
     findProgramName(pname, sizeof(pname));
 
     printf(DASHLINE);
-    printf("IV-TRAN Interactive FORTRAN IV   Rev. 5.21\n");
-    printf("Retrocomputing Systems Group    All Rights Reserved\n");
+    printf("iFOR-IV Interactive FORTRAN IV   Rev. 0.88\n");
+    printf("Lawless Cybernetics Inc.    All Rights Reserved\n");
     printf("Compiled ");
     printDateTimeLine();
     printf("\n");
